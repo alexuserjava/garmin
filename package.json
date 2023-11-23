@@ -23,5 +23,8 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001564"
+  }
 }
